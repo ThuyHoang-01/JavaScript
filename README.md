@@ -1,2 +1,2 @@
 # JavaScript
-Self-taught JavaScript
+Self-taught JavaScript From F8
